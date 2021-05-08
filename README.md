@@ -1,6 +1,6 @@
 # CarnaWebAPIChallenge
 
-Configure appsettings.json in API folder.
+Create and configure appsettings.json in API folder.
 
 {
   "Logging": {
@@ -15,4 +15,6 @@ Configure appsettings.json in API folder.
     "CarnaPostgreSqlConnection": "Host=<hostname>;Database=<db_name>;Username=<username>;Password=<password>"
   }
 }
+  
+
 
